@@ -1,0 +1,11 @@
+D:\Projects\Moldino\TextValidator\bin\Debug\net8.0\TextValidator.deps.json
+D:\Projects\Moldino\TextValidator\bin\Debug\net8.0\TextValidator.dll
+D:\Projects\Moldino\TextValidator\bin\Debug\net8.0\TextValidator.pdb
+D:\Projects\Moldino\TextValidator\obj\Debug\net8.0\TextValidator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Moldino\TextValidator\obj\Debug\net8.0\TextValidator.AssemblyInfoInputs.cache
+D:\Projects\Moldino\TextValidator\obj\Debug\net8.0\TextValidator.AssemblyInfo.cs
+D:\Projects\Moldino\TextValidator\obj\Debug\net8.0\TextValidator.csproj.CoreCompileInputs.cache
+D:\Projects\Moldino\TextValidator\obj\Debug\net8.0\TextValidator.dll
+D:\Projects\Moldino\TextValidator\obj\Debug\net8.0\refint\TextValidator.dll
+D:\Projects\Moldino\TextValidator\obj\Debug\net8.0\TextValidator.pdb
+D:\Projects\Moldino\TextValidator\obj\Debug\net8.0\ref\TextValidator.dll
